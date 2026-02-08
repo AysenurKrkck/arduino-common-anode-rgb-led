@@ -43,6 +43,13 @@ The main logic is inside the `loop()` function. Pay attention to the inverted lo
 
 Ana mantık `loop()` fonksiyonu içindedir. Ortak Anot yapısından kaynaklanan ters mantığa dikkat edin.
 
+![green](https://github.com/user-attachments/assets/3a8ce044-b414-425e-ba3b-b3219f65deb1)
+![white](https://github.com/user-attachments/assets/77ef30bd-78f9-427f-82d3-ea7d6064336d)
+![red](https://github.com/user-attachments/assets/3b7f11f5-aa01-4111-9c5f-3fbb8ded2504)
+![blue](https://github.com/user-attachments/assets/5b1f55f7-bdfa-426f-9e59-daa25164a88c)
+
 ```cpp
 // Example Snippet
 digitalWrite(red, LOW); // Red turns ON - Kırmızı AÇILIR
+
+
